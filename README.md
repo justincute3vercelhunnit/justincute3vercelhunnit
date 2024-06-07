@@ -1,26 +1,7 @@
 ### Sky Leite
 
-Hi, I'm Sky Leite (she/her), a Software Engineer from Brazil, currently working at [ActiveState](https://www.activestate.com/). My favorite hobbies are programming and video games, and integrating both is how my programming career started (check out [Weeb Bot](https://github.com/SkyLeite/WeebBot-v2)). Currently in love with Elm, Rust and Reverse Engineering.
+Hi, I'm justin wilson (him/his), a Software Engineer from  ny , currently working at pizza tower  and fuzzysm64js. My favorite hobbies are programming and video games, check out  (alu  game)
+ 📫 Get in touch
 
-## 🔭 Currently working on
-
-- A mod for Umineko Golden Fantasia
-
-## 🌱 Currently learning
-
-- Haskell
-- Reverse Engineering
-- Rust
-
-## 💬 Ask me about
-
-- TypeScript
-- Elm
-- Emacs
-- Final Fantasy XIV lore
-
-## 📫 Get in touch
-
-- Email: sky@leite.dev
-- Blog: https://leite.dev
-- Discord: i3wm
+- Email: justinbustin231@gmail.com
+- Discord: justin1 somethung i forgot
